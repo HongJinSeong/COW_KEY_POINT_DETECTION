@@ -1,0 +1,4 @@
+datasets/
+output/
+test_folds
+pretrain_models
