@@ -4,6 +4,7 @@ Animal Datathon Korea 2021
 정확두 부문 3위
 
 기존에 많은 keypoint 대회에서 HRNET이 상위권인것을 보고 HRNET기준으로 진행 결정
+
 동물 기준으로 keypoint 학습이 된 pretrain weight도 찾았으나 성능은 향상되지 않았기 때문에 사람기준 pretrain된 weight 기준으로
 여러가지 augmentation을 적용해보고 가장 좋은 augmentation 조합기준으로 진행함( random noise , random contrast, random brightness, paste_cutout)
 
