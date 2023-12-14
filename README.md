@@ -1,7 +1,7 @@
 소 키포인트
 Animal Datathon Korea 2021
 
-정확두 부문 3위
+정확도 부문 3위
 
 기존에 많은 keypoint 대회에서 HRNET이 상위권인것을 보고 HRNET기준으로 진행 결정
 
